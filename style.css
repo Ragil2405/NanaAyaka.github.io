@@ -12,7 +12,7 @@ html {
   margin: 0 auto;
   background-color: aqua;
   height: 760px;
-  background-image: url("background.png");
+  background-image: url("Background.png");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
